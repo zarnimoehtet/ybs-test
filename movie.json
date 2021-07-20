@@ -1,58 +1,244 @@
-[
-  {
-    "title": "Mad Max: Fury Road",
-    "genre": "Action & Adventure",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album1.png"
-  },
-  {
-    "title": "Inside Out",
-    "genre": "Animation, Kids & Family",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album2.png"
-  },
-  {
-    "title": "Star Wars: Episode VII - The Force Awakens",
-    "genre": "Action, Science Fiction",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album3.png"
-  },
-  {
-    "title": "The Martian",
-    "genre": "Science Fiction & Fantasy",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album4.png"
-  },
-  {
-    "title": "Mission: Impossible Rogue Nation",
-    "genre": "Action",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album5.png"
-  },
-  {
-    "title": "Up",
-    "genre": "Animation",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album6.png"
-  },
-  {
-    "title": "The LEGO Movie",
-    "genre": "Animation",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album7.png"
-  },
-  {
-    "title": "Aliens",
-    "genre": "Science Fiction",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album8.png"
-  },
-  {
-    "title": "Back to the Future",
-    "genre": "Science Fiction",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album9.png"
-  },
-  {
-    "title": "Doctor Strange",
-    "genre": "Animation",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album10.png"
-  },
-  {
-    "title": "Guardians of the Galaxy Vol.1",
-    "genre": "Science Fiction & Fantasy",
-    "image": "https://hpaanacl.000webhostapp.com/Image/album11.png"
-  }
+{
+"data": [
+{
+"id": 724989,
+"name": "Hard Kill",
+"overwatch": "The work of billionaire tech CEO Donovan Chalmers is so valuable that he hires mercenaries to protect it, and a terrorist group kidnaps his daughter just to get it.",
+"photourl": "/ugZW8ocsrfgI95pnQ7wrmKDxIe.jpg",
+"updateTime": "2020-09-27T08:10:26",
+"releaseDate": "2020-08-25T00:00:00",
+"popular": 1358.65,
+"rate": 5,
+"ratedCount": 95,
+"genre": "28,53"
+},
+{
+"id": 337401,
+"name": "Mulan",
+"overwatch": "When the Emperor of China issues a decree that one man per family must serve in the Imperial Chinese Army to defend the country from Huns, Hua Mulan, the eldest daughter of an honored warrior, steps in to take the place of her ailing father. She is spirited, determined and quick on her feet. Disguised as a man by the name of Hua Jun, she is tested every step of the way and must harness her innermost strength and embrace her true potential.",
+"photourl": "/aKx1ARwG55zZ0GpRvU2WrGrCG9o.jpg",
+"updateTime": "2020-09-07T05:56:08",
+"releaseDate": "2020-09-04T00:00:00",
+"popular": 602.456,
+"rate": 7.9,
+"ratedCount": 681,
+"genre": "28,18,14,10752"
+},
+{
+"id": 24428,
+"name": "The Avengers",
+"overwatch": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+"photourl": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+"updateTime": "2020-07-04T22:42:24",
+"releaseDate": "2012-04-25T00:00:00",
+"popular": 37.685,
+"rate": 7.7,
+"ratedCount": 22679,
+"genre": "878,28,12"
+},
+{
+"id": 330457,
+"name": "Frozen II",
+"overwatch": "Elsa, Anna, Kristoff and Olaf head far into the forest to learn the truth about an ancient mystery of their kingdom.",
+"photourl": "/pjeMs3yqRmFL3giJy4PMXWZTTPa.jpg",
+"updateTime": "2020-06-12T11:35:30",
+"releaseDate": "2019-11-20T00:00:00",
+"popular": 52.337,
+"rate": 7.3,
+"ratedCount": 4847,
+"genre": "16,10751,12"
+},
+{
+"id": 299534,
+"name": "Avengers: Endgame",
+"overwatch": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+"photourl": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+"updateTime": "2020-06-10T12:12:00",
+"releaseDate": "2019-04-24T00:00:00",
+"popular": 64.304,
+"rate": 8.3,
+"ratedCount": 13530,
+"genre": "12,878,28"
+},
+{
+"id": 53182,
+"name": "300: Rise of an Empire",
+"overwatch": "Greek general Themistokles attempts to unite all of Greece by leading the charge that will change the course of the war. Themistokles faces the massive invading Persian forces led by mortal-turned-god, Xerxes and Artemesia, the vengeful commander of the Persian navy.",
+"photourl": "/vWIq0BP43tgUy5faBbcTfCJX9fs.jpg",
+"updateTime": "2020-06-09T17:11:38",
+"releaseDate": "2014-03-05T00:00:00",
+"popular": 23.797,
+"rate": 6.1,
+"ratedCount": 4538,
+"genre": "28,10752,14"
+},
+{
+"id": 300671,
+"name": "13 Hours: The Secret Soldiers of Benghazi",
+"overwatch": "An American Ambassador is killed during an attack at a U.S. compound in Libya as a security team struggles to make sense out of the chaos.",
+"photourl": "/4qnEeVPM8Yn5dIVC4k4yyjrUXeR.jpg",
+"updateTime": "2020-05-26T11:20:59",
+"releaseDate": "2016-01-13T00:00:00",
+"popular": 18.538,
+"rate": 7.1,
+"ratedCount": 1977,
+"genre": "28,36,53"
+},
+{
+"id": 68721,
+"name": "Iron Man 3",
+"overwatch": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+"photourl": "/qhPtAc1TKbMPqNvcdXSOn9Bn7hZ.jpg",
+"updateTime": "2020-05-13T05:37:51",
+"releaseDate": "2013-04-18T00:00:00",
+"popular": 26.976,
+"rate": 6.9,
+"ratedCount": 16065,
+"genre": "28,12,878"
+},
+{
+"id": 10138,
+"name": "Iron Man 2",
+"overwatch": "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances – and confront powerful enemies.",
+"photourl": "/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg",
+"updateTime": "2020-05-13T05:37:37",
+"releaseDate": "2010-04-28T00:00:00",
+"popular": 30.133,
+"rate": 6.8,
+"ratedCount": 14349,
+"genre": "12,28,878"
+},
+{
+"id": 559,
+"name": "Spider-Man 3",
+"overwatch": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+"photourl": "/sqZKCRYGovZ8aN99VVJSdL8Ja9k.jpg",
+"updateTime": "2020-05-13T05:34:47",
+"releaseDate": "2007-05-01T00:00:00",
+"popular": 22.881,
+"rate": 6.2,
+"ratedCount": 8503,
+"genre": "14,28,12"
+},
+{
+"id": 522627,
+"name": "The Gentlemen",
+"overwatch": "American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.",
+"photourl": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+"updateTime": "2020-04-02T13:22:00",
+"releaseDate": "2019-12-16T00:00:00",
+"popular": 114.284,
+"rate": 7.9,
+"ratedCount": 623,
+"genre": "28,35,80"
+},
+{
+"id": 338762,
+"name": "Bloodshot",
+"overwatch": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought.",
+"photourl": "/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
+"updateTime": "2020-03-31T03:17:54",
+"releaseDate": "2020-02-20T00:00:00",
+"popular": 549.677,
+"rate": 7.3,
+"ratedCount": 1012,
+"genre": "28,878"
+},
+{
+"id": 458897,
+"name": "Charlie's Angels",
+"overwatch": "When a systems engineer blows the whistle on a dangerous technology, Charlie's Angels from across the globe are called into action, putting their lives on the line to protect society.",
+"photourl": "/1DPUFG6QnGqzpvEaDEv7TaepycM.jpg",
+"updateTime": "2020-03-04T15:31:02",
+"releaseDate": "2019-11-14T00:00:00",
+"popular": 112.825,
+"rate": 6.4,
+"ratedCount": 556,
+"genre": "28,12,35"
+},
+{
+"id": 512200,
+"name": "Jumanji: The Next Level",
+"overwatch": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+"photourl": "/bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg",
+"updateTime": "2020-03-03T11:06:17",
+"releaseDate": "2019-12-04T00:00:00",
+"popular": 233.733,
+"rate": 6.8,
+"ratedCount": 1864,
+"genre": "28,12,35,14"
+},
+{
+"id": 493900,
+"name": "303",
+"overwatch": "Two university students gain insight into life and love as they get to know each other during a road trip across Europe.",
+"photourl": "/7gUNQ8Xlk00J4W4OROgwR7xzUOz.jpg",
+"updateTime": "2019-12-26T17:05:27",
+"releaseDate": "2018-12-06T00:00:00",
+"popular": 5.278,
+"rate": 7.5,
+"ratedCount": 31,
+"genre": "35,18,10749"
+},
+{
+"id": 478820,
+"name": "The Emperor of Paris",
+"overwatch": "Paris, France, early 19th century. The legendary convict François Vidocq lives in disguise trying to escape from a tragic past that torments him. When, after an unfortunate event, he crosses paths with the police chief, he makes a bold decision that will turn the ruthless mastermind of the Parisian underworld against him.",
+"photourl": "/7mZBfj3dFIzQgMVfkDwi9u4JBxI.jpg",
+"updateTime": "2019-11-18T16:36:27",
+"releaseDate": "2018-12-19T00:00:00",
+"popular": 24.374,
+"rate": 6.4,
+"ratedCount": 200,
+"genre": "28,12,36,53"
+},
+{
+"id": 558,
+"name": "Spider-Man 2",
+"overwatch": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
+"photourl": "/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+"updateTime": "2019-11-07T06:19:27",
+"releaseDate": "2004-06-30T00:00:00",
+"popular": 9.564,
+"rate": 7,
+"ratedCount": 8676,
+"genre": "28,12,14"
+},
+{
+"id": 1726,
+"name": "Iron Man",
+"overwatch": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
+"photourl": "/78lPtwv72eTNqFW9COBYI0dWDJa.jpg",
+"updateTime": "2019-11-07T06:18:20",
+"releaseDate": "2008-05-02T00:00:00",
+"popular": 28.623,
+"rate": 7.6,
+"ratedCount": 16820,
+"genre": "28,12,878"
+},
+{
+"id": 122,
+"name": "The Lord of the Rings: The Return of the King",
+"overwatch": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam take the ring closer to the heart of Mordor, the dark lord's realm.",
+"photourl": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+"updateTime": "2019-11-07T06:16:52",
+"releaseDate": "2003-12-17T00:00:00",
+"popular": 36.259,
+"rate": 8.4,
+"ratedCount": 14054,
+"genre": "28,12,14"
+},
+{
+"id": 121,
+"name": "The Lord of the Rings: The Two Towers",
+"overwatch": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
+"photourl": "/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg",
+"updateTime": "2019-11-07T06:16:47",
+"releaseDate": "2002-12-18T00:00:00",
+"popular": 24.409,
+"rate": 8.3,
+"ratedCount": 13303,
+"genre": "28,12,14"
+}
 ]
-  
+}

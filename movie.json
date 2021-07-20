@@ -181,18 +181,7 @@
 "ratedCount": 200,
 "genre": "28,12,36,53"
 },
-{
-"id": 558,
-"name": "Spider-Man 2",
-"overwatch": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood.",
-"photourl": "https://upload.wikimedia.org/wikipedia/en/0/02/The_Amazing_Spiderman_2_poster.jpg",
-"updateTime": "2019-11-07T06:19:27",
-"releaseDate": "2004-06-30T00:00:00",
-"popular": 9.564,
-"rate": 7.7,
-"ratedCount": 8676,
-"genre": "28,12,14"
-},
+
 {
 "id": 1726,
 "name": "Iron Man",
